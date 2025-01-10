@@ -1,0 +1,12 @@
+Class is blueprint of project.
+
+Java script
+    Java script is Prototype based but its support class-object.
+    Object - class-object based
+
+
+OOps Concept
+    Enscapsulation
+    Abstraction
+    Inhertence
+    Polymerphism
