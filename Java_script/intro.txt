@@ -1,0 +1,18 @@
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+
+Java_script: interactive web page, front end webpage, backend, desktop apps, mobile apps.
+
+v8 is first java script engiene created by google.
+
+How java code get executed:
+
+    step 1: Befor code runtime
+    code >>parsing>>>> Syntax tree
+
+    step 2: JIt compiler(inbuilt in node js)
+
+    step 3: Byte code translation
+    Byte code >>>>> machine code
+
+    step 4: code execution
